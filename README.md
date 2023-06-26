@@ -2,7 +2,7 @@
 - 👀 I’m interested in various programming languages.
 - 🌱 I’m currently learning UI Design.
 - 💞️ I’m looking to collaborate on the projects.
-- 📫 How to reach me on linkedin.
+- 📫 You can reach me on linkedin - @fahimxshaikh.
 
 <!---
 fahimxshaikh/fahimxshaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
