@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahimxshaikh
 - 👀 I’m interested in various programming languages.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning UI Design.
 - 💞️ I’m looking to collaborate on the projects.
 - 📫 How to reach me on linkedin.
 
